@@ -1,3 +1,9 @@
-# Hello world
+# Escrow API v1 Documentation
 
-``` Hello
+## Endpoints
+
+### Login user
+`[POST] /api/v1/auth/login/`
+/api/v1/auth/register/
+/api/v1/auth/verify/
+/api/v1/auth/remember/
