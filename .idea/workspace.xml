@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="51604f18-5435-4b8b-a98f-af498d426246" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Readme.md" afterPath="$PROJECT_DIR$/Readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/login.md" afterPath="$PROJECT_DIR$/docs/login.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,12 +28,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="504">
-                <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -40,13 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/login.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="42">
-                <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-                <folding />
+              <first_editor relative-caret-position="1512">
+                <caret line="72" column="63" lean-forward="false" selection-start-line="72" selection-start-column="63" selection-end-line="72" selection-end-column="63" />
+                <folding>
+                  <marker date="1543405782103" expanded="true" signature="471:518" ph="{...}" />
+                  <marker date="1543405782103" expanded="true" signature="1550:1780" ph="{&quot;header&quot;: &quot;Bearer jmIGpFBByNnVeI_CLyB889Go2x-b3Q0XlU9w-7_an80&quot;...}" />
+                  <marker date="1543405782103" expanded="true" signature="1676:1778" ph="{&quot;multiAuth&quot;: true...}" />
+                  <marker date="1543405782103" expanded="true" signature="1815:1874" ph="{&quot;status&quot;: 401...}" />
+                  <marker date="1543405782103" expanded="true" signature="1888:1975" ph="{&quot;status&quot;: 404...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -65,8 +72,8 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/docs/login.md" />
         <option value="$PROJECT_DIR$/Readme.md" />
+        <option value="$PROJECT_DIR$/docs/login.md" />
       </list>
     </option>
   </component>
@@ -223,18 +230,18 @@
       <updated>1543313944905</updated>
       <workItem from="1543313947096" duration="3424000" />
       <workItem from="1543398244724" duration="323000" />
-      <workItem from="1543400370951" duration="3211000" />
+      <workItem from="1543400370951" duration="5318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6958000" />
+    <option name="totallyTimeSpent" value="9065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1004" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11374407" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11374407" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -325,17 +332,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/login.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="42">
-            <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -345,8 +341,25 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="504">
-            <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/login.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1512">
+            <caret line="72" column="63" lean-forward="false" selection-start-line="72" selection-start-column="63" selection-end-line="72" selection-end-column="63" />
+            <folding>
+              <marker date="1543405782103" expanded="true" signature="471:518" ph="{...}" />
+              <marker date="1543405782103" expanded="true" signature="1550:1780" ph="{&quot;header&quot;: &quot;Bearer jmIGpFBByNnVeI_CLyB889Go2x-b3Q0XlU9w-7_an80&quot;...}" />
+              <marker date="1543405782103" expanded="true" signature="1676:1778" ph="{&quot;multiAuth&quot;: true...}" />
+              <marker date="1543405782103" expanded="true" signature="1815:1874" ph="{&quot;status&quot;: 401...}" />
+              <marker date="1543405782103" expanded="true" signature="1888:1975" ph="{&quot;status&quot;: 404...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

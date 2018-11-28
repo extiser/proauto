@@ -22,7 +22,7 @@ NodeJS
 
 - [ ] [Создание новой сделки](/docs/deal-create.md)
 
-
+- [ ] [Роли пользователей](/docs/user-roles.md)
 ### Register user
 `[POST] /api/v1/auth/register/`
 
