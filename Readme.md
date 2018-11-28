@@ -1,22 +1,29 @@
 # Escrow API v1 Documentation
 
-## Endpoints
-
-### Login user
+## Login user
 ```
 [POST] /api/v1/auth/login/
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 {
     login: String,
     password: String
 }
 
-return {
-    header: Berear token
+{
+    "User" : {
+        "header" : Bearer token, // Authorization Token
+        "multiAuth" : true ? false, // Двухэтапная аутентификация
+        "isActivate" : true ? false, // Заблокирован / Не заблокирован
+        "activateReason" : String, // Причина блокировки
+        "role" : String // Роль
+    }
 }
 ```
-
-
 
 ### Register user
 `[POST] /api/v1/auth/register/`
