@@ -4,16 +4,16 @@
 
 ### Login user
 ```
-    [POST] /api/v1/auth/login/
+[POST] /api/v1/auth/login/
 
-    {
-        login: String,
-        password: String
-    }
+{
+    login: String,
+    password: String
+}
 
-    return {
-        header: Berear hash
-    }
+return {
+    header: Berear token
+}
 ```
 
 
