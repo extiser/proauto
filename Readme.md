@@ -4,31 +4,24 @@ NodeJS
 
 ## Документация
 
--[ ] [Логин | Логаут](/docs/login.md)  
+- [ ] [Логин | Логаут](/docs/login.md)  
 
--[ ] [Регистрация](/docs/registration.md)  
+- [ ] [Регистрация](/docs/registration.md)  
 
--[ ] [Информация о пользователе](/docs/user.md)  
+- [ ] [Информация о пользователе](/docs/user.md)  
 
--[ ] [Настройки пользователя](/docs/user-settings.md)  
+- [ ] [Настройки пользователя](/docs/user-settings.md)  
 
--[ ] [Проверка номера телефона | Двухэтапная аутентификация](/docs/phone.md)  
+- [ ] [Проверка номера телефона | Двухэтапная аутентификация](/docs/phone.md)  
 
--[ ] [Проверка паспорта](/docs/check-passport.md)  
+- [ ] [Проверка паспорта](/docs/check-passport.md)  
 
--[ ] [Список сделок](/docs/deals.md)  
+- [ ] [Список сделок](/docs/deals.md)  
 
--[ ] [Единичная сделка](/docs/deal.md)  
+- [ ] [Единичная сделка](/docs/deal.md)  
 
--[ ] [Создание новой сделки](/docs/deal-create.md)
+- [ ] [Создание новой сделки](/docs/deal-create.md)
 
--[ ] []()
--[ ] []()
--[ ] []()
--[ ] []()
--[ ] []()
--[ ] []()
--[ ] []()
 
 ### Register user
 `[POST] /api/v1/auth/register/`
