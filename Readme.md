@@ -4,7 +4,9 @@ NodeJS
 
 ## Документация
 
-- [ ] [Логин | Логаут](/docs/login.md)  
+- [x] [Логин](/docs/login.md)  
+
+- [x] [Логаут](/docs/logout.md)  
 
 - [ ] [Регистрация](/docs/registration.md)  
 
