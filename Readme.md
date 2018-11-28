@@ -1,29 +1,26 @@
-# Escrow API v1 Documentation
+# Escrow API v1
 
-## Login user
-```
-[POST] /api/v1/auth/login/
+NodeJS 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+## Документация
 
-{
-    login: String,
-    password: String
-}
+-[ ] [Логин | Логаут](/docs/login.md)
+-[ ] [Регистрация](/docs/registration.md)
+-[ ] [Информация о пользователе](/docs/user.md)
+-[ ] [Настройки пользователя](/docs/user-settings.md)
+-[ ] [Проверка номера телефона | Двухэтапная аутентификация](/docs/phone.md)
+-[ ] [Проверка паспорта](/docs/check-passport.md)
+-[ ] [Список сделок](/docs/deals.md)
+-[ ] [Единичная сделка](/docs/deal.md)
+-[ ] [Создание новой сделки](/docs/deal-create.md)
 
-{
-    "User" : {
-        "header" : Bearer token, // Authorization Token
-        "multiAuth" : true ? false, // Двухэтапная аутентификация
-        "isActivate" : true ? false, // Заблокирован / Не заблокирован
-        "activateReason" : String, // Причина блокировки
-        "role" : String // Роль
-    }
-}
-```
+-[ ] []()
+-[ ] []()
+-[ ] []()
+-[ ] []()
+-[ ] []()
+-[ ] []()
+-[ ] []()
 
 ### Register user
 `[POST] /api/v1/auth/register/`
